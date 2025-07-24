@@ -1,0 +1,13 @@
+numpy==1.24.4
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+mediapipe==0.10.9
+PyQt5
+pyttsx3
+pywin32
+pypiwin32
+pillow
+pandas
+scikit-learn
+matplotlib
+PyMuPDF
